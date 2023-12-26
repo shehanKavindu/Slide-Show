@@ -41,6 +41,7 @@ body{
     height:100%;
     box-shadow: none;
 }
+.item:nth-child(4)
 .item:nth-child(3){
     left:50%;
 }
