@@ -43,7 +43,7 @@ body{
 }
 
 .item:nth-child(3){
-    left:60%;
+    left:50%;
 }
 .item:nth-child(4){
     left:calc(50% + 220px);
